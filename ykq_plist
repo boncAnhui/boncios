@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.209.204.235:8070/home/redis/workspace/RSF/app/apk/ios/ahcloud.ipa</string>
+					<string>http://120.209.204.235:8070/redis/appdata/app/Attendance.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonc.AHCloudManage.UNICOM.AH</string>
+				<string>com.bonc.CloudManager-IOS.CMCC.AH</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>云管</string>
+				<string>云考勤</string>
 			</dict>
 		</dict>
 	</array>
